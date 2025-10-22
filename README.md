@@ -20,3 +20,5 @@ farm_manager_app/
 **Week 1 progress:**
 _✅ Day 1 – Environment Setup_
 - Installed Flutter SDK on Ubuntu
+- Verified setup with `flutter doctor`.
+- Connected Android phone successfully.
